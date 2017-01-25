@@ -1,4 +1,4 @@
-# AdvanceWidget1
+# AdvancedWidget1
 
 #ScreenShot
   ![1](https://github.com/NicoAN42/AdvanceWidget1/blob/master/1%20(1).png "")
